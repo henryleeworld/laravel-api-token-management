@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3d139c38ff5da2b684844bd3e4f00656",
+    "content-hash": "e815483e3a01ae65aecd6d666b2f7535",
     "packages": [
         {
             "name": "blaspsoft/token-forge",

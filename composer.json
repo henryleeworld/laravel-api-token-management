@@ -8,7 +8,7 @@
     "require": {
         "php": "^8.2",
         "blaspsoft/token-forge": "^0.2",
-        "laravel/framework": "^11.32",
+        "laravel/framework": "^11.33",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.10"
     },
